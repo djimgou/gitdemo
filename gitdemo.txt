@@ -1,0 +1,14 @@
+public class Test {
+
+    public static void main(String[] args) {
+
+        String hungry ="yes";
+       
+         if (hungry =="yes")
+              system.out.printIn("eat something....");
+         else {
+             system.out.pritI("Do work........");
+         }
+    }
+}       
+              
